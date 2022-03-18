@@ -1,8 +1,13 @@
 # mini-typescript 详细注释
 
-添加注释，完整版 ts 从扫描，绑定，检查类型到生成 js流程
+添加注释，mini-ts 完整的 从扫描，绑定，检查类型到生成js 流程
 
+如果你们觉得有帮助，投食也是欢迎的~
 
+<p align="center">
+    <img height="360" alt="微信" src="https://hkc452.github.io/slamdunk-the-vue3/wechat-pay.jpeg"/>
+    <img height="360" alt="支付宝" src="https://hkc452.github.io/slamdunk-the-vue3/alipay.jpeg" />
+</p>
 
 A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler
 

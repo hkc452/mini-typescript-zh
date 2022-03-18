@@ -1,0 +1,23 @@
+{
+  "locals": {
+    "singleDeclaration": [
+      {
+        "kind": "Var",
+        "pos": 3
+      }
+    ]
+  },
+  "statements": [
+    {
+      "kind": "Var",
+      "name": {
+        "kind": "Identifier",
+        "text": "singleDeclaration"
+      },
+      "init": {
+        "kind": "Literal",
+        "value": 1
+      }
+    }
+  ]
+}
